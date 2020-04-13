@@ -62,4 +62,4 @@ If you want to make changes, or experiment with something you create a branch. T
 
 Do the concepts introduced feel intuitive or difficult to understand?
 
-It is easy to understand but the coding is hard to remember because everyone in the videos does it slightly differently. 
+It's easy to understand but the coding is hard to remember because everyone in the videos does it slightly differently. 
