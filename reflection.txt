@@ -1,3 +1,23 @@
+In a couple of sentences, how would you describe the command line in plain English? Can you think of an analogy for it?
+
+A Command line is used to give commands to your computer without using the mouse.
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+
+Not really. But I probably spent more time on each segment than the time box told me. I don't really want to focus on the time box too much but it is nice to see how long I should spend on something. 
+
+Name 5 commands you used and what they do. 
+
+ls: lists all the files 
+cd: change directory 
+Cd..: takes you to the file up a level. 
+Command k: clears your terminal 
+Mkdir: make directory 
+
+Did you learn anything unexpected? 
+
+I didn't expect to understand what the terminal really was so quickly. 
+
 Whats the difference between git and GitHub?
 
 Git is a distributed source control repository. It's a version control system. 
@@ -27,3 +47,7 @@ I need to read things over and over again for it to make sense in my brain. Some
 Is there anything you'd do differently if you were to repeat the learning exploration again?
 
 Take more breaks. 
+
+How would you describe stage and commit to your non-tech-savvy friend?
+
+It's basically a word for saving something In the git world. 
