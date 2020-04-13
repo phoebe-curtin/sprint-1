@@ -51,3 +51,15 @@ Take more breaks.
 How would you describe stage and commit to your non-tech-savvy friend?
 
 It's basically a word for saving something In the git world. 
+
+What is Master?
+
+A master is the master branch. Everything that is final and perfect gets saved onto it. 
+
+Why create a Branch?
+
+If you want to make changes, or experiment with something you create a branch. This means you can make all the changes you want without actually effecting the master branch. When you have finished you can create a pull request and have it reviewed by team members. Then it can be merged to the master branch if accepted. 
+
+Do the concepts introduced feel intuitive or difficult to understand?
+
+It is easy to understand but the coding is hard to remember because everyone in the videos does it slightly differently. 
