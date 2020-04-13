@@ -1,0 +1,17 @@
+Whats the difference between git and GitHub?
+
+Git is a distributed source control repository. It's a version control system. 
+
+GitHub is a webservice that uses Git. 
+
+Can you think of an analogy to describe them?
+
+Git is the system and GitHub is a website that uses the system. 
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+
+Yes.
+
+Did you stick to the timebox suggestions? If not, why not?
+
+Loosely. 
