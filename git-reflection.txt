@@ -15,3 +15,15 @@ Yes.
 Did you stick to the timebox suggestions? If not, why not?
 
 Loosely. 
+
+What is a GitHub work flow?
+
+Working and collaborating with others. Having a work directory, staging information then putting it in a repository. Checking others work before you merge. Going back to a previous save if you change your mind on the most recent file. 
+
+What did you notice about your own learning? What did you do when you were confused or blocked?
+
+I need to read things over and over again for it to make sense in my brain. Sometimes I will be reading something and not even realise that I am just looking at the words and not taking the information in. When I am confused I'll write the important information down in my notebook and have my 10th instant coffee and read it over and over. If I'm still confused I'll ask Jossie. 
+
+Is there anything you'd do differently if you were to repeat the learning exploration again?
+
+Take more breaks. 
